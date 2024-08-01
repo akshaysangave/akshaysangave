@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me sangaveakshay1@gmail.com
 
-# Connect with Me on LinkedIn
+## Connect with Me on LinkedIn
 
 <a href="https://www.linkedin.com/in/akshaysangave/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
