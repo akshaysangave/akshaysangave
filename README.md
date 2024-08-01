@@ -23,9 +23,6 @@ Here are some ideas to get you started:
     <a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a>
 </p>
 
-<p align="center">
-    <img width="1000" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/9406bf5e-7283-48d5-beb3-4da00a31d25d" alt="Material Bread logo">
-</p>
  <h1 align="center">👋 Hi, I’m Shraddha Sangave</h1>
 
 <h3 align="center">Data Analyst</h3>
