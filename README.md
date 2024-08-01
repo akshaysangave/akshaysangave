@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a>
+    <a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a>
 </p>
 
 <p align="center">
