@@ -29,6 +29,21 @@ Here are some ideas to get you started:
 
 📫 How to reach me sangaveakshay1@gmail.com
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Profile</title>
+</head>
+<body>
+    <a href="https://www.linkedin.com/in/akshaysangave/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="100" height="100">
+    </a>
+</body>
+</html>
+
+
 ## Connect with Me on LinkedIn
 
 <a href="https://www.linkedin.com/in/akshaysangave/">
