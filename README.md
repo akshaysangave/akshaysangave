@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </body>
 </html>
 
-## Languages and Tools:
+## Badges Earned:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -68,11 +68,8 @@ Here are some ideas to get you started:
 <body>
     <p>
         <img width="40" height="40" src="https://shorturl.at/7kkbI">
-        <img width="40" height="40" src="![hrgh](https://github.com/user-attachments/assets/219ae0fb-2d24-4a3f-85ad-cc2086724706)">
-        <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/7680377c-f7d8-4588-8d80-c265be13acbe">
-        <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/e4449cf5-6276-48ec-b90b-97eb478188d8">
-        <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/b93ad2db-ea3b-4ee6-b5ca-62403dcb952a">
-        <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/74801c95-7569-4928-bf27-aa95c80b1c75">
+        <img width="40" height="40" src="https://shorturl.at/qhEKh">
+
     </p>
 </body>
 </html>
