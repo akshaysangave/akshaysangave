@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <p>
-        <img width="40" height="40" src="![Sql 5 star](https://github.com/user-attachments/assets/9c76606f-6ff1-48d1-8f22-2aa6c18b6bcc)">
+        <img width="40" height="40" src="https://images.app.goo.gl/hWduujfGDnACz8xA7">
         <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/56e0b5fe-72fe-4d3c-a6ad-57b1c433595d">
     </p>
 </body>
