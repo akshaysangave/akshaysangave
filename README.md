@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <body>
     <p>
         <!-- HackerRank Python 5-star badge -->
-        <img width="40" height="40" src="https://hrcdn.net/community-frontend/assets/badges/python-5-200-5ef3eb3d3b.png" alt="HackerRank Python 5-star badge">
+        <img width="40" height="40" src="[https://hrcdn.net/community-frontend/assets/badges/python-5-200-5ef3eb3d3b.png" alt="HackerRank Python 5-star badge](https://media.licdn.com/dms/image/D4D22AQGLsIbYcGv0pA/feedshare-shrink_2048_1536/0/1715742428967?e=1725494400&v=beta&t=A7dghDBuuc7RjhmcA6vpCeYqqeFdcYdQTHkPHMsm1_g)">
         
         <!-- HackerRank SQL 5-star badge -->
         <img width="40" height="40" src="https://hrcdn.net/community-frontend/assets/badges/sql-5-200-5ef3eb3d3b.png" alt="HackerRank SQL 5-star badge">
