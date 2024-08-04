@@ -69,7 +69,6 @@ Here are some ideas to get you started:
     <p>
         <img width="40" height="40" src="https://shorturl.at/7kkbI">
         <img width="40" height="40" src="https://shorturl.at/qhEKh">
-
-    </p>
+</p>
 </body>
 </html>
