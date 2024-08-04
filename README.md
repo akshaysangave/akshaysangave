@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </body>
 </html>
 
-## Badges Earned:
+## Languages and Tools:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -75,4 +75,5 @@ Here are some ideas to get you started:
     </p>
 </body>
 </html>
+
 
