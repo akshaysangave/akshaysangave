@@ -55,3 +55,20 @@ Here are some ideas to get you started:
     </p>
 </body>
 </html>
+
+## Badges Earned:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+    <p>
+        <img width="40" height="40" src=D:\Akshay\AKSHAY\DA\A Portfolio\github\Sql 5 star.jpg">
+        <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/56e0b5fe-72fe-4d3c-a6ad-57b1c433595d">
+    </p>
+</body>
+</html>
