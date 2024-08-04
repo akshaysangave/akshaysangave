@@ -68,10 +68,10 @@ Here are some ideas to get you started:
 <body>
     <p>
         <!-- HackerRank Python 5-star badge -->
-        <img width="40" height="40" src="URL_to_Python_5_star_badge_image" alt="HackerRank Python 5-star badge">
+        <img width="40" height="40" src="https://hrcdn.net/community-frontend/assets/badges/python-5-200-5ef3eb3d3b.png" alt="HackerRank Python 5-star badge">
         
         <!-- HackerRank SQL 5-star badge -->
-        <img width="40" height="40" src="URL_to_SQL_5_star_badge_image" alt="HackerRank SQL 5-star badge">
+        <img width="40" height="40" src="https://hrcdn.net/community-frontend/assets/badges/sql-5-200-5ef3eb3d3b.png" alt="HackerRank SQL 5-star badge">
     </p>
 </body>
 </html>
