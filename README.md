@@ -63,12 +63,15 @@ Here are some ideas to get you started:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>HackerRank Badges</title>
 </head>
 <body>
     <p>
-        <img width="40" height="40" src="(https://images.app.goo.gl/hWduujfGDnACz8xA7)">
-        <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/56e0b5fe-72fe-4d3c-a6ad-57b1c433595d">
+        <!-- HackerRank Python 5-star badge -->
+        <img width="40" height="40" src="URL_to_Python_5_star_badge_image" alt="HackerRank Python 5-star badge">
+        
+        <!-- HackerRank SQL 5-star badge -->
+        <img width="40" height="40" src="URL_to_SQL_5_star_badge_image" alt="HackerRank SQL 5-star badge">
     </p>
 </body>
 </html>
