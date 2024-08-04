@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <body>
     <p>
         <img width="40" height="40" src="https://shorturl.at/yYiou">
-        <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/56e0b5fe-72fe-4d3c-a6ad-57b1c433595d">
+        <img width="40" height="40" src="![hrgh](https://github.com/user-attachments/assets/219ae0fb-2d24-4a3f-85ad-cc2086724706)">
         <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/7680377c-f7d8-4588-8d80-c265be13acbe">
         <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/e4449cf5-6276-48ec-b90b-97eb478188d8">
         <img width="40" height="40" src="https://github.com/shraddhasangave99/Accenture-Social_Buzz-Data_Analysis/assets/153710836/b93ad2db-ea3b-4ee6-b5ca-62403dcb952a">
